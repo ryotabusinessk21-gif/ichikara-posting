@@ -1,0 +1,19 @@
+{
+  "studio": {"name": "Ortho DANCE STUDIO（国際会館）", "lat": 35.0635824, "lon": 135.7924374},
+  "bbox": {"N": 35.087, "S": 35.023, "W": 135.740, "E": 135.819},
+  "wards": {"26101": "北区", "26102": "上京区", "26103": "左京区"},
+  "crs_metric": "EPSG:6674",
+  "target_flyers": 10000,
+  "flyers_per_outing": 200,
+  "zone_target_households": 200,
+  "zone_lo": 160,
+  "zone_hi": 240,
+  "small_town": 120,
+  "rate_default": 1.0,
+  "walk_m_per_min": 70,
+  "sec_per_flyer": 10,
+  "serve_dist_m": 12,
+  "serve_min_frac": 0.6,
+  "max_seg_m": 40,
+  "osm_buffer_m": 300
+}

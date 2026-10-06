@@ -1,0 +1,9 @@
+pipeline/.venv/
+pipeline/raw/
+pipeline/work/
+pipeline/out/*
+!pipeline/out/p2_check.txt
+!pipeline/out/target_towns.csv
+__pycache__/
+*.pyc
+.DS_Store
